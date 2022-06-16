@@ -1,0 +1,5 @@
+flask
+falsk-restful
+pandas
+flask-cors
+pysqlite3
